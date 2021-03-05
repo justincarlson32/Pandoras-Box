@@ -1,0 +1,9 @@
+Package: com.ion.pandorasbox
+Name: PandorasBox
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.9
+Architecture: iphoneos-arm
+Description: A Adfree/UnlimSkip/Download Pandora enhancement tweak!
+Maintainer: _justincarlson
+Author: _justincarlson
+Section: Tweaks
